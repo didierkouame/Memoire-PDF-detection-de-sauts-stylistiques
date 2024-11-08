@@ -3,7 +3,9 @@
 ## Auteurs
 - **Marceau Hernandez** : Sauts qualitatifs
 - **Didier Kouamé** : Sauts stylistiques
-## Encadrant : Gaël Lejeune, Maître de Conférences HDR en Informatique (Sorbonne Université)
+  
+## Encadrant
+Gaël Lejeune, Maître de Conférences HDR en Informatique (Sorbonne Université)
 
 ## Description
 Ce dépôt contient le mémoire de Master 1 co-rédigé par **Marceau Hernandez** et **Didier Kouamé**, portant sur l'analyse des **sauts qualitatifs** et **stylistiques** dans les corpus textuels numériques.
