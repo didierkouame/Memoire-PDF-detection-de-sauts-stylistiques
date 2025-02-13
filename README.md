@@ -1,4 +1,4 @@
-# Mémoire de M1 - Détection de Sauts Qualitatifs et sauts Stylistiques dans les Corpus
+# Mémoire de M1 - Détection de Sauts Qualitatifs et Sauts Stylistiques dans les Corpus
 
 ## Auteurs
 - **Marceau Hernandez** : Sauts qualitatifs
