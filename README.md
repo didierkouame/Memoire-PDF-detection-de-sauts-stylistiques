@@ -17,3 +17,5 @@ internet, ou pour être liés à d’autres oeuvres numériques. D’autres, qua
 Ce mémoire examine comment :
 - Les **sauts qualitatifs** peuvent affecter l’accessibilité des informations dans des documents non nativement numériques, où des données peuvent être altérées ou perdues lors de la numérisation (comme les documents OCRisés).
 - Les **sauts stylistiques** consistent à détecter des variations dans le style d'écriture au sein des documents nativement numériques, en particulier dans des corpus d'articles scientifiques en PDF.
+
+CC-BY-ND 4.0
